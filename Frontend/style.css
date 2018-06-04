@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans');
+
+body {
+	width: 60%;
+	min-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #fdfdfd;
+	color: #444;
+	font-family: Alegreya Sans, sans-serif;
+}
+
+h1 {
+	font-size: 300%;
+	text-shadow: 1px 1px #222;
+}
+
+#map {
+	border: solid 2px #ccc;
+	height: 600px;
+	width: 800px;
+}
+
+#error-message {
+	font-weight: bold;
+	font-size: 120%;
+	color: #ff3333;
+}
